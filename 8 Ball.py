@@ -5,7 +5,7 @@ import random
 ans = True
 
 while ans:
-    question = raw_input("Ask the magic 8 ball a question: (Credits: Liam Kelly) ")
+    question = raw_input("Ask the magic 8 ball a question: (Credits: OnlyInEden) ")
     
     answers = random.randint(1,8)
     
